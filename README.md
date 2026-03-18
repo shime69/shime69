@@ -53,13 +53,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shime69&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ### 🧩 Currently Working On
 - 🔐 Reverse engineering challenges
 - ⚡ Backend systems & APIs
@@ -68,7 +61,7 @@
 ---
 
 ### 📫 Contact
-- 💬 Discord: yourtag#0000
-- 📧 Email: your@email.com
+- 💬 Discord: shime6969
+- 📧 Email: osimsic007@gmail.com
 
 ---
