@@ -12,15 +12,15 @@ time — reversing and pwn are what I actually enjoy. Currently learning Rust.
 Languages I reach for: C, C++, C#, Python. JavaScript and HTML/CSS when
 something needs a frontend. Picking up Rust at the moment.
 
-Reversing and CTF: Ghidra for static analysis, gdb with pwndbg for dynamic,
-pwntools for exploit scripting. radare2 when I want something lighter.
+Reversing and CTF: IDA and Ghidra for static analysis, gdb with pwndbg for
+dynamic, pwntools for exploit scripting. radare2 when I want something lighter.
 
 Everything else: Linux across the board — Arch on my machine, Kali for
-challenges, Ubuntu on servers. Git, Cloudflare, and a fair bit of automation
-glue on top.
+challenges, Ubuntu on servers, plus macOS. Git, Cloudflare, and a fair bit of
+automation glue on top.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,kali,ubuntu,git,cloudflare,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,kali,ubuntu,apple,git,cloudflare,bash,vscode" />
 </p>
 
 ## Contact
