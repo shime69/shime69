@@ -3,6 +3,10 @@
 Backend dev from Serbia. C, C++, C# and Python mostly. I do CTFs in my free
 time — reversing and pwn are what I actually enjoy. Currently learning Rust.
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,rust,js,html,css" />
+</p>
+
 ## Working with
 
 Languages I reach for: C, C++, C#, Python. JavaScript and HTML/CSS when
@@ -14,6 +18,10 @@ pwntools for exploit scripting. radare2 when I want something lighter.
 Everything else: Linux across the board — Arch on my machine, Kali for
 challenges, Ubuntu on servers. Git, Cloudflare, and a fair bit of automation
 glue on top.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,kali,ubuntu,git,cloudflare,bash,vscode" />
+</p>
 
 ## Contact
 
